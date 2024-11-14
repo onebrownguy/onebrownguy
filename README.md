@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creating an organizer for relationships. 
 - 📫 How to reach me: ig : @weeniefries
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I own four dachshunds. 
+- ⚡ Fun fact: I can quote the entire Dune movie.
 
 <!---
 onebrownguy/onebrownguy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
