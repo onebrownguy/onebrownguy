@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @onebrownguy
 - 👀 I’m interested in weightlifting, action movies and plant-based foods.
 - 🌱 I’m currently learning python and C/C++!
-- 💞️ I’m looking to collaborate on creating an organizer for relationships. 
+- 💞️ I’m looking to collaborate on beginner friendly projects. 
 - 📫 How to reach me: ig : @weeniefries
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can quote the entire Dune movie.
