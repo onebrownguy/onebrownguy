@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @onebrownguy
 - 👀 I’m interested in **Backend dev projects**.
 - 🌱 I’m currently learning DSA in C++!
-- 💞️ I’m looking to collaborate on **sofrware dev projects**. 
+- 💞️ I’m looking to collaborate on **software dev projects**. 
 - 📫 How to reach me: ig : **@weeniefries**
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I can quote the entire Dune movie.
