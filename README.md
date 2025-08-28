@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @onebrownguy, AI Engineer, Student, Dog Love 
+- 👋 Hi, I’m @onebrownguy, AI Engineer, Student, Dog Lover
 - 👀 I’m interested in **Backend dev projects**.
 - 🌱 I’m currently learning DSA in C++!
 - 💞️ I’m looking to collaborate on **AI projects**. 
