@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @onebrownguy, AI Engineer, Student, Dog Lover
 - 👀 I’m interested in **Backend dev projects**.
-- 🌱 I’m currently learning cloud architecture and systems design with AI.
+- 🌱 I’m currently learning cloud architecture and systems design.
 - 💞️ I’m looking to collaborate on **AI projects**. 
 - 📫 How to reach me: ig : **@weeniefries**
 - 😄 Pronouns: he/him
